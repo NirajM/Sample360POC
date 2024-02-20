@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BikeDemo-0.1";
 const contentToCache = [
-    "Build/16Feb24.loader.js",
-    "Build/16Feb24.framework.js.gz",
-    "Build/16Feb24.data.gz",
-    "Build/16Feb24.wasm.gz",
+    "Build/20Feb.loader.js",
+    "Build/20Feb.framework.js",
+    "Build/20Feb.data",
+    "Build/20Feb.wasm",
     "TemplateData/style.css"
 
 ];
